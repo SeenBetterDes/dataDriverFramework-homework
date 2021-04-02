@@ -1,0 +1,3 @@
+user=Homework
+password=123
+url="jbdc:mysql://DESKTOP-3E2NMUA/SQLEXPRESS"
